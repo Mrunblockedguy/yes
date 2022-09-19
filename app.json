@@ -1,7 +1,7 @@
 {
-    "name": "Incognito",
+    "name": "SecuredWP",
     "description": "Access the world wide web",
     "repository": "https://github.com/titaniumnetwork-dev/Incognito",
-    "logo": "https://avatars.githubusercontent.com/u/47227492?s=200&v=4",
+    "logo": "https://winaero.com/blog/wp-content/uploads/2019/09/Chrome-Incognito-Mode-Icon-256.png",
     "keywords": ["corrosion", "proxy", "web-unblocker", "internet", "gaming", "unblock", "incognito"]
 }
